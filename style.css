@@ -36,8 +36,17 @@
 .item-price {
   font-size: 30px;
   font-weight: 600;
+  margin-bottom: 40px;
 }
 
 .Page-info-container {
   padding-left: 100px;
+}
+
+.button {
+  background-color: rgb(247, 238, 114);
+  padding: 15px 30px;
+  color: white;
+  text-decoration: none;
+  margin-top: 40px;
 }
